@@ -1,4 +1,4 @@
-import Banner from '../components/CreateProposal';
+import Banner from '../components/Banner';
 import Proposals from '../components/Proposals';
 import CreateProposal from '../components/CreateProposal';
 
